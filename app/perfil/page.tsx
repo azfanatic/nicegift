@@ -247,7 +247,7 @@ export default function ProfilePage() {
               </div>
             )}
             <p aria-live="polite" className="profile-notice">{profileNotice}</p>
-            <p className="profile-privacy-note">Lo que selecciones aparecerá en el perfil. El enlace contiene esos datos y cualquiera que lo reciba podrá verlos. Esta demo no guarda perfiles ni procesa regalos.</p>
+            <p className="profile-privacy-note">Lo que selecciones aparecerá en el perfil. El enlace contiene esos datos y cualquiera que lo reciba podrá verlos. Esta demo no guarda perfiles ni procesa regalos. <a href="/aviso-confidencialidad">Lee el Aviso de Confidencialidad.</a></p>
           </div>
           <aside aria-label="Vista previa de tu perfil compartido" className="profile-preview">
             <span className="profile-preview-label">VISTA PREVIA · LO QUE VERÁN</span>
@@ -275,6 +275,7 @@ export default function ProfilePage() {
       <footer className="site-footer">
         <a className="brand footer-brand" href="/"><span className="brand-mark"><span>n</span></span><span>nicegift<span className="brand-period">.</span></span></a>
         <span>Un regalo que se siente. <span className="footer-heart">♡</span></span>
+        <a className="letter-back-link" href="/aviso-confidencialidad">Aviso de Confidencialidad</a>
       </footer>
     </main>
   );

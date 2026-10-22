@@ -302,7 +302,7 @@ export default function Home() {
           <span>nicegift<span className="brand-period">.</span></span>
         </a>
         <span>Un regalo que se siente. <span className="footer-heart">♡</span></span>
-        <div className="footer-links"><a href="#catalogo">Regalos</a><a href="#como-funciona">Cómo funciona</a><a href="/perfil">Mi perfil</a><a href="/carta">Crear una carta</a></div>
+        <div className="footer-links"><a href="#catalogo">Regalos</a><a href="#como-funciona">Cómo funciona</a><a href="/perfil">Mi perfil</a><a href="/carta">Crear una carta</a><a href="/aviso-confidencialidad">Aviso de Confidencialidad</a></div>
         <span className="copyright">© 2026 NiceGift · Hecho con cariño</span>
       </footer>
     </main>
