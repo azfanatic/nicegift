@@ -217,6 +217,7 @@ export default function LetterPage() {
         <a className="brand footer-brand" href="/"><span className="brand-mark"><span>n</span></span><span>nicegift<span className="brand-period">.</span></span></a>
         <span>Un regalo que se siente. <span className="footer-heart">♡</span></span>
         <a className="letter-back-link" href="/perfil">Crear mi perfil</a>
+        <a className="letter-back-link" href="/aviso-confidencialidad">Aviso de Confidencialidad</a>
       </footer>
     </main>
   );
