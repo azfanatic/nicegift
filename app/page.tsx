@@ -305,6 +305,7 @@ export default function Home() {
         <div className="footer-links"><a href="#catalogo">Regalos</a><a href="#como-funciona">Cómo funciona</a><a href="/perfil">Mi perfil</a><a href="/carta">Crear una carta</a><a href="/aviso-confidencialidad">Aviso de Confidencialidad</a></div>
         <span className="copyright">© 2026 NiceGift · Hecho con cariño</span>
       </footer>
+      <p>Proyecto final de la materia Ingeniería de software - Oliver O'brian Rodriguez Pinedo - 225361717</p>
     </main>
   );
 }
